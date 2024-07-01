@@ -1,0 +1,14 @@
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\bin\Debug\net8.0\UsingInterface.exe
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\bin\Debug\net8.0\UsingInterface.deps.json
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\bin\Debug\net8.0\UsingInterface.runtimeconfig.json
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\bin\Debug\net8.0\UsingInterface.dll
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\bin\Debug\net8.0\UsingInterface.pdb
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\UsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\UsingInterface.AssemblyInfoInputs.cache
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\UsingInterface.AssemblyInfo.cs
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\UsingInterface.csproj.CoreCompileInputs.cache
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\UsingInterface.dll
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\refint\UsingInterface.dll
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\UsingInterface.pdb
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\UsingInterface.genruntimeconfig.cache
+C:\Users\saifu\source\repos\UsingInterface\UsingInterface\obj\Debug\net8.0\ref\UsingInterface.dll
